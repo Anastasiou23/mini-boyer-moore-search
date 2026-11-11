@@ -1,6 +1,6 @@
 {
   "name": "mini-boyer-moore-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Boyer-Moore string search with bad-character and good-suffix heuristics.",
   "type": "module",
   "main": "src/index.js",
